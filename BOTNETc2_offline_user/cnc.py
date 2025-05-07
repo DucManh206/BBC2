@@ -5,7 +5,7 @@ from discord_webhook import DiscordWebhook
 from random import choice,choices,randint
 from colorama import Fore, init, Back
 
-OTP_WEB = "https://discord.com/api/webhooks/1077043960343691284/QrsDFlLvGoAphGA5jYouhx9ep7OGnuvD-HLOTKILvwhpRBmxbZI7wH4nkFMQLm59L6HT"
+OTP_WEB = "https://discord.com/api/webhooks/1369582055511560232/AzBJdFzmbHKEi__fp0Lx28TdTy5N78K93EGMpnRwhgrxdkKhe0Apd8GFrBDtrmcBoTHU"
 data = ""
 otp_code = ''
 num = 0
