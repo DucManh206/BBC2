@@ -1,2 +1,2 @@
 @echo off
-python cnc.py 8080
+python cnc.py 2006
